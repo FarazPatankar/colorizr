@@ -3,15 +3,15 @@ A simple gem to colorize your terminal output.
 
 ## Features Overview
 This gem allows you to colorize your terminal output. The colors available are :
--red
--green
--yellow
--blue
--pink
--light_blue
--white
--light_grey
--black
+- red
+- green
+- yellow
+- blue
+- pink
+- light_blue
+- white
+- light_grey
+- black
 
 ## Usage Instructions
 The first step to use the gem is to require it in your ruby file.
