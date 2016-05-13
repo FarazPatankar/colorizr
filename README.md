@@ -15,15 +15,15 @@ This gem allows you to colorize your terminal output. The colors available are :
 
 ## Usage Instructions
 The first step to use the gem is to require it in your ruby file.
-`require 'colorizr`
+`require 'colorizr'`
 
 You can colorize your output using any of the colors available. Example :
 `"This is an example output".red`
 
 Other class methods that are available to the user are :
 ```
-String.colors #Returns an array of all the available colors
-String.sample_colors #Prints out examples with all the available colors
+String.colors 	#Returns an array of all the available colors
+String.sample_colors 	#Prints out examples with all the available colors
 ```
 
 ## Installation Instructions
