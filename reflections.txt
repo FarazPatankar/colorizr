@@ -1,0 +1,7 @@
+1. This gem uses Ruby's metaprogramming capabilities in the self.create_colors method in colorizr.rb by using define_method to dynamically generate all the color method as opposed to generating each color individually.
+
+2. I spent roughly two hours working on this project.
+
+3. The most rewarding challenge was getting my markdown formatting to be on point. Earlier, I'd constantly push to keep checking updates to my README but during this project, I came across an npm package that allows me to preview the README without having to push to Github constantly.
+
+4. I feel like I still have a lot of room to grow. Specially in terms of refactoring my code and also on optimizing it.
